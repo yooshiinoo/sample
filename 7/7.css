@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+header-txst{
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.camp {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.pro {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.woman {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
+.creeac {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+}
+
